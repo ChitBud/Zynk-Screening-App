@@ -1,0 +1,10 @@
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\bin\Debug\ZnykScreeningApp.exe.config
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\bin\Debug\ZnykScreeningApp.exe
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\bin\Debug\ZnykScreeningApp.pdb
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.LoginForm.resources
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.exe
+C:\Users\Joe\Documents\Visual Studio 2017\Projects\ZnykScreeningApp\ZnykScreeningApp\obj\Debug\ZnykScreeningApp.pdb
